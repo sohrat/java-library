@@ -1,0 +1,5 @@
+000001;2023-04-21 16:07:15;Moby Dick;Dickenson Charles;Adventure;2010;123;9721356987;2;Penguin
+000002;2023-04-21 16:08:13;The Martian;Andy Weir;Science Fiction;2017;2;978456123;1;New York Times
+000003;2023-04-22 19:39:00;Artemis;Andy Weir;Science Fiction;2019;1;978456198;1;New York Times
+000004;2023-04-22 19:39:00;The Project Hail Marry;3;Science Fiction;2022;2;9784598745;11;New York Times
+000005;2023-04-21 16:07:15;Moby Black;Dickenson Charles;Fiction;2010;123;97213569872;9;Penguin
